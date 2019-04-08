@@ -21,7 +21,7 @@ public class BoardFactory {
             }
         }
 
-        return board;
+        return board;gh
     }
     // end::createBoard[]
 }
